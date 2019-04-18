@@ -2,10 +2,12 @@ h1 {
   text-align: center;
   color: black;
   text-decoration: underline;
+  font-style: italic;
 }
 h2 {
   text-decoration: underline;
 }
+
 background {
   color: white;
 }
