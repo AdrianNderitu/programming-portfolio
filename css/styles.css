@@ -12,3 +12,6 @@ h2 {
 background {
   color: white;
 }
+.intro {
+  font-style: italic;
+}
