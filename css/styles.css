@@ -15,3 +15,7 @@ background {
 .intro {
   font-style: italic;
 }
+.important {
+  color: blue;
+  font-style: italic;
+}
