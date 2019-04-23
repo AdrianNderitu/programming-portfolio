@@ -27,3 +27,6 @@ img {
   float: left;
   align:center;
 }
+img {
+  float: right;
+}
