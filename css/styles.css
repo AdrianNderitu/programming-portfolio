@@ -27,3 +27,6 @@ img {
   float: left;
   align:center;
 }
+.test box {
+  border: 2px solid black;
+}
