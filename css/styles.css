@@ -10,9 +10,6 @@ h2 {
   text float: right;
 }
 
-background {
-  background color:blue;
-}
 .intro {
   font-style: italic;
 }
@@ -23,12 +20,6 @@ background {
 .sidebar {
   width: 600px;
   float: right;
-}
-.test box {
-  border: 2px solid black;
-}
-.text align {
-  text align-content: center;
 }
 img {
   float: left;
