@@ -1,7 +1,6 @@
 h1 {
   text-align: center;
   color: black;
-  text-decoration: underline;
   font-style: italic;
 }
 h2 {
@@ -9,7 +8,6 @@ h2 {
   font-style: italic;
   text float: right;
 }
-
 .intro {
   font-style: italic;
 }
@@ -19,6 +17,7 @@ h2 {
 }
 .sidebar {
   width: 600px;
+  height:600px;
   float: right;
 }
 img {
