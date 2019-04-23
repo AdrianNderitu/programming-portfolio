@@ -19,9 +19,9 @@ background {
   color: blue;
   font-style: italic;
 }
-.column {
+.sidebar {
   width: 500px;
-  float: left;
+  float: right;
 }
 .test box {
   border: 2px solid black;
