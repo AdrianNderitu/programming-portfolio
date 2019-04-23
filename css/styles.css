@@ -29,3 +29,6 @@ background {
 .text align {
   text align-content: center;
 }
+img {
+  float: left;
+}
