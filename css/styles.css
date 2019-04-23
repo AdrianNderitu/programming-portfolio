@@ -19,3 +19,10 @@ background {
   color: blue;
   font-style: italic;
 }
+.column {
+  width: 500px;
+  float: left;
+}
+.test box {
+  border: 2px solid black;
+}
