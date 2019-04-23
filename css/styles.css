@@ -10,7 +10,7 @@ h2 {
 }
 
 background {
-  color: blue;
+  background: blue;
 }
 .intro {
   font-style: italic;
